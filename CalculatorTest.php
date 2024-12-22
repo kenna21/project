@@ -1,5 +1,6 @@
 <?php
 
+namespace .;
 
 use ..\Calculator;
 use PHPUnit\Framework\TestCase;
