@@ -1,0 +1,12 @@
+# Ignorer node_modules et tous ses sous-dossiers et fichiers
+node_modules/
+
+# Ignorer vendor et tous ses sous-dossiers et fichiers
+vendor/
+# Ignorer les fichiers log
+*.log
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.idea/
+.vscode/
+
